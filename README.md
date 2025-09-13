@@ -6,8 +6,8 @@
 
 ## cmake window
 
-<img scr = "CMAKE Generate.png">
+<img src = "CMAKE Generate.png">
 
 ## output
 
-<img scr = "Output Hello.png">
+<img src = "Output Hello.png">
