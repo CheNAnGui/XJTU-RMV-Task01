@@ -1,0 +1,20 @@
+# ignore binary
+*.out
+*.exe
+*.dll
+*.so
+*.a
+
+# mid
+*.o
+*.obj
+
+# build
+/build
+
+# other
+/src
+/bin
+/include
+
+/.vscode
